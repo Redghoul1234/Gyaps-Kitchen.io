@@ -25,7 +25,7 @@
 .logo h2{
   font-size: 21px;
   color: black;
-  position: fixed;
+  position: relative;
   left: 60px;
   bottom: 25px;
 }
@@ -283,6 +283,7 @@
   .main_slide .fav-head{
     width: 50%;
     margin-bottom: 20px;
+    z-index: 10;
   }
 
   .footer .footer-1 div{
