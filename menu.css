@@ -247,6 +247,7 @@
     right: 5w;
     position: absolute;
     font-size: 25px;
+    z-index: 12;
   }
   .headerbar .nav ul{
     flex-direction: column;
