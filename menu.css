@@ -273,7 +273,7 @@
   }
 
   .main_slide{
-    margin-top: 400px;
+    margin-top: 300px;
     grid-template-columns: 1fr;
   }
 
@@ -294,6 +294,19 @@
   .footer div{
     margin-bottom: 40px;
   }
+
+  .logo img{
+    width: 50px;
+  position: fixed;
+  top: 3px;
+  }
+
+  .logo h2{
+    font-size: 21px;
+    color: black;
+    position: fixed;
+    left: 80px;
+    top: 18px;
 }
 
 @media only screen and (max-width: 550px){
