@@ -43,6 +43,10 @@
   background-color: green;
   border-bottom: 2px solid lawngreen;
   box-shadow: 0 2px 20px black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 11;
 }
 
 .header ul{
@@ -299,6 +303,7 @@
     width: 50px;
   position: fixed;
   top: 3px;
+    z-index: 11;
   }
 
   .logo h2{
@@ -307,6 +312,9 @@
     position: fixed;
     left: 80px;
     top: 18px;
+    z-index: 11;
+  }
+   
 }
 
 @media only screen and (max-width: 550px){
