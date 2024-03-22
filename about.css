@@ -259,6 +259,22 @@
   .footer div{
     margin-bottom: 40px;
   }
+
+   .logo img{
+    width: 50px;
+  position: fixed;
+  top: 3px;
+    z-index: 11;
+  }
+
+  .logo h2{
+    font-size: 21px;
+    color: black;
+    position: fixed;
+    left: 80px;
+    top: 18px;
+    z-index: 11;
+  }
 }
 
 @media only screen and (max-width: 768px){
