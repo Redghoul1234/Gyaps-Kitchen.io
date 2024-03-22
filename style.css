@@ -25,6 +25,8 @@
 .logo h2{
   font-size: 21px;
   color: black;
+  left: 60px;
+  bottom: 20px;
 }
 
 .bar{
