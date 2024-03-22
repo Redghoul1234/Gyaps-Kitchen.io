@@ -530,6 +530,7 @@ h2{
 
 .footer-2 h2{
   font-family: cursive;
+  left: 0;
 }
 
 .footer-2 img{
@@ -597,7 +598,7 @@ h2{
   }
 
   .main_slide img{
-    width: 300px;
+    width: 200px;
     margin-right: 30px;
   }
   
