@@ -595,6 +595,10 @@ h2{
   .header .account ul{
     justify-content: space-between;
   }
+
+  .main_slide img{
+    width: 300px;
+  }
   
   .foodimg{
     flex: 1;
